@@ -1,2 +1,0 @@
-# Portfolio
-Bruno Leite Portfolio
